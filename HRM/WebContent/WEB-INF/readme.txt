@@ -1,0 +1,1 @@
+注意：lib和jsp目录放在WEB-INF目录下
